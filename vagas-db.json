@@ -1,0 +1,28 @@
+{
+  "vagas": [
+    {
+      "id": 001,
+      "nome": " Desenvolvedor Full-Stack Júnior ",
+      "imagem": " 1001-imagem.jpg ",
+      "descricao": " Trabalho Remoto ",
+      "salário": 5000,
+      "beneficios": " Umas férias ao ano "
+    },
+    {
+      "id": 002,
+      "nome": " Desenvolvedor Full-Stack Senior ",
+      "imagem": " 1002-imagem.jpg ",
+      "descricao": " Trabalho Remotoe ",
+      "salário": 10000,
+      "beneficios": " Duas férias ao ano "
+    },
+    {
+      "id": 003,
+      "nome": " Desenvolvedor Full-Stack Pleno ",
+      "imagem": " 1003-imagem.jpg ",
+      "descricao": " Trabalho Remoto ",
+      "salário": 15000,
+      "beneficios": " Três férias ao ano "
+    }
+  ]
+}
